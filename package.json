@@ -1,0 +1,13 @@
+{
+  "name": "hfsyun-Artitalk-emoji",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "hfsyun",
+  "license": "MIT",
+   "directories": {
+    "dist": "./dist"
+  },
+   "files": [ 
+    "dist/" 
+   ]
+}
